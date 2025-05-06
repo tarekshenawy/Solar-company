@@ -937,11 +937,11 @@ nav .nav-list .nav-home{
     gap: 5px;
 }
 .footer-top .right{
-    width: 250px;
+    width: 320px;
 }
 
 .footer-top .right div{
-    width:100%;
+    width: 270px;
     height: 30px;
 }
 .footer-top .right input{
@@ -949,8 +949,8 @@ nav .nav-list .nav-home{
 }
 .footer-top .right button{
     width: 40%;
-      display: flex;
-     justify-content: center;
+    display: flex;
+    justify-content: center;
     align-items: center;   
 }
 .footer-bottom{
